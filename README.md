@@ -14,14 +14,14 @@
 
 [<img alt="Christopher Schulz | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
 
-[<img alt="Game Design Portfolio" src="https://img.shields.io/badge/Game Design Portfolio%20-%23000000.svg?&style=for-the-badge" />][gameportfolio]
+[<img alt="Game Design Portfolio" src="https://img.shields.io/badge/Game Design%20-%23000000.svg?&style=for-the-badge&label=Portfolio:&labelColor=orange" />][gameportfolio]
 
 </p>
 
 
 <details open>
 
-<summary> <b>🛠️ Languages & Tools: </b></summary>
+<summary> <b> 🛠️ Some Languages & Tools: </b></summary>
 <br />
 <p align = "left">
 
