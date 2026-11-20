@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris - aka skydivin4ng3l :wave:
 
-## I'm a recently graduated IT Systems Engineer (B.S.) and a former Level/Game Designer!
-- 📣 I'm currently looking for my dream job
+## I'm a IT Systems Engineer (B.S.) and a former Level/Game Designer!
+- 📣 I'm working as a full stack software engineer on public transport software solutions
 - :seedling: I'm striving to improve myself and my skill set every day
 - :honeybee: I love to be part of a team, fostering collaboration, trying to help wherever I can
 - ❤️ User-centered design, rewarding user experiences, workflow and process improvements are my long term favorites
